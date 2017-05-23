@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gabem.me/</loc>
-    <lastmod>2016-07-30T17:13:47-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://gabem.me/blog/mechanical-fail-episode-2/</loc>
     <lastmod>2016-07-30T17:13:47-07:00</lastmod>
   </url>
@@ -19,6 +14,53 @@
   <url>
     <loc>http://gabem.me/blog/new-site/</loc>
     <lastmod>2016-05-30T12:04:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/blog/</loc>
+    <lastmod>2016-07-30T17:13:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/tags/games/</loc>
+    <lastmod>2016-07-30T17:13:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/tags/hugo/</loc>
+    <lastmod>2016-05-30T12:04:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/tags/mechanical-fail/</loc>
+    <lastmod>2016-07-30T17:13:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/</loc>
+    <lastmod>2016-07-30T17:13:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/tags/</loc>
+    <lastmod>2016-07-30T17:13:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabem.me/tags/web/</loc>
+    <lastmod>2016-05-30T12:04:02-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

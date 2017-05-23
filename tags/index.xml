@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Refracted Pixels</title>
+    <link>http://gabem.me/tags/</link>
+    <description>Recent content in Tags on Refracted Pixels</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jul 2016 17:13:47 -0700</lastBuildDate>
+    
+	<atom:link href="http://gabem.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Games</title>
+      <link>http://gabem.me/tags/games/</link>
+      <pubDate>Sat, 30 Jul 2016 17:13:47 -0700</pubDate>
+      
+      <guid>http://gabem.me/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://gabem.me/tags/hugo/</link>
+      <pubDate>Mon, 30 May 2016 12:04:02 -0700</pubDate>
+      
+      <guid>http://gabem.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical Fail</title>
+      <link>http://gabem.me/tags/mechanical-fail/</link>
+      <pubDate>Sat, 30 Jul 2016 17:13:47 -0700</pubDate>
+      
+      <guid>http://gabem.me/tags/mechanical-fail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://gabem.me/tags/web/</link>
+      <pubDate>Mon, 30 May 2016 12:04:02 -0700</pubDate>
+      
+      <guid>http://gabem.me/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

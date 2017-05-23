@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Jul 2016 17:13:47 -0700</lastBuildDate>
-    <atom:link href="http://gabem.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://gabem.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mechanical Fail, Episode 2: Procedural Generation</title>
@@ -15,25 +17,8 @@
       <pubDate>Sat, 30 Jul 2016 17:13:47 -0700</pubDate>
       
       <guid>http://gabem.me/blog/mechanical-fail-episode-2/</guid>
-      <description>&lt;p&gt;Earlier today, my friend and collaborator &lt;a href=&#34;https://twitter.com/jsebastiangames&#34;&gt;Jonathon Wallace&lt;/a&gt; published the
-&lt;a href=&#34;https://soundcloud.com/user-297359012/mechanical-fail-episode-02&#34;&gt;second episode&lt;/a&gt; of our podcast, &lt;em&gt;&lt;a href=&#34;https://soundcloud.com/user-297359012/sets/mechanical-fail&#34;&gt;Mechanical Fail&lt;/a&gt;&lt;/em&gt;! I completely forgot to
-post about us starting the series, so I&amp;rsquo;ll expand on it some more here.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/user-297359012/sets/mechanical-fail&#34;&gt;Mechanical Fail&lt;/a&gt; is a way for us to discuss elements of games that we like or
-dislike, hoping to distinguish how and why certain games appeal to us more than
-others. There&amp;rsquo;s no set schedule just yet, but I&amp;rsquo;ll be posting about new
-episodes here and on &lt;a href=&#34;https://twitter.com/mystalice&#34;&gt;my Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In today&amp;rsquo;s podcast, we talk about &lt;a href=&#34;https://en.wikipedia.org/wiki/Procedural_generation&#34;&gt;procedural generation&lt;/a&gt;, with a focus on how
-it&amp;rsquo;s used in games. Roguelikes come up a lot, and we discuss The Binding of
-Isaac, Barony, Rogue, Spelunky, Eldritch, Dwarf Fortress, among others. We kick
-things off by giving a definition of procedural generation in a more general
-sense. Finally, shout out to &lt;a href=&#34;https://www.reddit.com/r/proceduralgeneration/&#34;&gt;r/proceduralgeneration&lt;/a&gt; for being full of lots of
-useful and interesting posts on the topic!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Man, I totally forgot to mention No Man&amp;rsquo;s Sky during the podcast. Another time,
-then!&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Earlier today, my friend and collaborator Jonathon Wallace published the second episode of our podcast, Mechanical Fail! I completely forgot to post about us starting the series, so I&amp;rsquo;ll expand on it some more here.
+Mechanical Fail is a way for us to discuss elements of games that we like or dislike, hoping to distinguish how and why certain games appeal to us more than others. There&amp;rsquo;s no set schedule just yet, but I&amp;rsquo;ll be posting about new episodes here and on my Twitter.</description>
     </item>
     
     <item>
@@ -42,80 +27,7 @@ then!&lt;/em&gt;&lt;/p&gt;
       <pubDate>Mon, 30 May 2016 12:04:02 -0700</pubDate>
       
       <guid>http://gabem.me/blog/new-site/</guid>
-      <description>&lt;p&gt;A couple of years ago now, I was planning to attend my first ever &lt;a href=&#34;http://www.gdconf.com/&#34;&gt;GDC&lt;/a&gt; and I
-wanted to be as prepared as possible. I needed business cards, an up to date
-resume, clever things on Twitter, and, of course, a web site with my portfolio.
-Resume and Twitter gave me no trouble. And with help from my awesome spouse, I
-was armed with really fucking rad business cards. The key problem: they
-pointed to a domain completely devoid of content!&lt;/p&gt;
-
-&lt;p&gt;Ever since the &lt;a href=&#34;http://thegabeproject.com/&#34;&gt;Geocities&lt;/a&gt; days, I&amp;rsquo;ve dabbled with making a personal web site.
-However, I never really had any content I considered useful enough to follow
-through with it. This time, I had a pressing need for one, which led me to
-decide that it was finally time to learn &lt;em&gt;How to Make a Real Web Site From
-Scratch™&lt;/em&gt;!&lt;/p&gt;
-
-&lt;p&gt;I made a real honest attempt at it. I watched a 6 hour video to learn modern CSS
-and HTML, all while diligently coding up the examples and doing every practice
-problem. By the end of the course, I was ready. I had already chosen to make a
-static web site using GitHub Pages and &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&amp;mdash;a relatively new and awesome
-static site framework&amp;mdash;I just had to get to work. So, with some more design
-help from my spouse, I created a simple site that I was pretty pleased with:
-
-&lt;figure &gt;
-    &lt;a href=&#34;http://gabem.me/images/old-site.png&#34;&gt;
-        &lt;img src=&#34;http://gabem.me/images/old-site.png&#34; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Let us take a moment to appreciate the artisanal, jQuery-free HTML and CSS.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Success! That is, until I looked at my list of features and improvements that I
-wanted for it. With my rudimentary knowledge of web development and ambitious
-goals for the site, I had spent dozens of hours researching and working on tech
-and less than one writing content.&lt;/p&gt;
-
-&lt;p&gt;GDC came and went. I planned to work on the site, but could quite never find
-the time. Slowly, days turned to weeks turned to months. When I finally got a
-chance to work on the web site, I was embarrassed by how empty I&amp;rsquo;d left it! So
-much so that I put up a &amp;ldquo;Coming Soon&amp;rdquo; page, in hopes that it would encourage me
-to do more work:
-
-&lt;figure &gt;
-    &lt;a href=&#34;http://gabem.me/images/under-construction.png&#34;&gt;
-        &lt;img src=&#34;http://gabem.me/images/under-construction.png&#34; /&gt;
-    &lt;/a&gt;
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Well that&amp;#39;s a step back.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;More time passed yet the page stayed the same. Luckily for me, in the
-intervening years, Hugo had evolved a theming system with a &lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;large gallery of
-themes&lt;/a&gt; to choose from. Awww, yissss! It was time to give up my dreams of
-hand-crafting a web site and use someone else&amp;rsquo;s theme. I looked at several
-&lt;a href=&#34;http://themes.gohugo.io/hugo-mdl/&#34;&gt;great&lt;/a&gt; &lt;a href=&#34;http://themes.gohugo.io/academic/&#34;&gt;themes&lt;/a&gt;, but chose to go with &lt;a href=&#34;http://themes.gohugo.io/future-imperfect/&#34;&gt;Hugo Future Imperfect&lt;/a&gt;. This was a
-great way to build a static web site! In a few hours I was able to &lt;code&gt;git init&lt;/code&gt;
-a new repository, configure the theme, write some content, and push the site
-to GitHub Pages. Which you are reading right now.&lt;/p&gt;
-
-&lt;p&gt;Well, it was a long, meandering path to get to this point, but I am very happy
-with the results. I think we can all agree that the moral of this story is to
-never do something from scratch that you need done before next week. Especially
-if you&amp;rsquo;ve no idea what you&amp;rsquo;re getting into.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Many thanks to &lt;a href=&#34;https://jpescador.com/&#34;&gt;Julio Pescador&lt;/a&gt; and &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; for finally enabling me to make a
-simple, beautiful web site with little fuss.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>A couple of years ago now, I was planning to attend my first ever GDC and I wanted to be as prepared as possible. I needed business cards, an up to date resume, clever things on Twitter, and, of course, a web site with my portfolio. Resume and Twitter gave me no trouble. And with help from my awesome spouse, I was armed with really fucking rad business cards. The key problem: they pointed to a domain completely devoid of content!</description>
     </item>
     
   </channel>
