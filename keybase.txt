@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/mystal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gabem.me
+  * I am mystal (https://keybase.io/mystal) on keybase.
+  * I have a public key with fingerprint 9412 43B1 0365 88F9 B18F  FF88 6E6A 2A02 42DA 4B87
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d897772f75c3b495aedf1a2144b813f83303dc2fae7618203e99b9c6ad9abb2a0a",
+      "fingerprint": "941243b1036588f9b18fff886e6a2a0242da4b87",
+      "host": "keybase.io",
+      "key_id": "6e6a2a0242da4b87",
+      "kid": "01015dcc23e6b0479cf2fab4a061fe1798da5b029dac629b8130b4335ecad9e3b29d0a",
+      "uid": "2c9cb7c9fbd8cad63e5dcbd3c6901a19",
+      "username": "mystal"
+    },
+    "service": {
+      "hostname": "gabem.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1541431461,
+  "expire_in": 157680000,
+  "prev": "95a42128d8d326c20ef69490b77bae7dde2fdd8510cea1d2a5d9e90d8fa58ede",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGF4IVLCEgWoCoeLWIGzrdr/33rWigUQl8gMHJYRZ77nn3N2N
+ZXfZXdbdQNIgFCYIcSYGnZjWBEcYIAJEA5wEEhqnaUqToY9BDdERc5ioxCDtXMb6
+1flzznnP8zzv877nHXnsEU14kP0tbXDqD68fCLpw7lCxZteV3c0lBHBAP2EsIQrQ
+0oZsELk9pgIrJIwESdEkFESDwUArBk5mACtyEoIKJdEUywKBYhSBYUgGyrQiIQNP
+CTTJIFEEosxLUJQAoCVSInSEYrWbkcvpsto9WFZkKZplAEUyPCcIiggoQVEUQeAR
+L2ECzdJQwuoGTLQ43CoDmwOSG+mtDhzDF9OSvf/B/+ubpDgoyzSDeECyBlFWsEHA
+SiRPKYgyiAKUOEDSIpRknhbVQkjAMgyHZGwbMQC/LPkuXpKjZVEGBllUABQwgGcQ
+FgeQkXmRpCRKVIFu5LJLhQijC/1uj2Qj9uoIHPNaZaS2Va3j4btZAqhQj486wuly
+eByyw4ajFo/HaVRJHr9TRe1BwPSQbwJWO8QNxAQvcrmtDjthpDBS9lhVQYpjKZah
+WJ7SEcjntLqQyaoiOAMvkHipaZBXbTsnsTRFC1CADM3LNIkUXmRFEhgMAP8ehIhW
+IBQ4ipSRREFa4nAvRDwAisQJCKqG3ajI7iCMNE7lkcxY02012yVPsQsRe4fO5YVo
+gsI1y0KD1cnShIdF/jdv+ojFlWVTnVE9m+SMpy7Xx9vqxieuiHeqA1VFwkir89mq
+gunlIHnLtzvWD2v0KZas4JpPt7bHdTOnGjq+diTmzG6+1bTh5oQ3aUv09LarKat0
+Nb3LWl6tHuvPfG0xdbF9cmwqid1cUPtbaOCNBjF39xqqd98nZMP9+9ry6fjISy8M
+DV/sXGkxdUSdSR+dbzRF5lSWpcbNZbRvP5qZm/3rm/5B/sAikazxPZFwQlsaN5Xx
+x4qq4qzHczcOBuquJ2p9URlt27vnm3PCfp6J8PmuJegsd9Pmkl95el0gebRp5snm
+ktvn23rHNfqN13/c5vpgZPL3sk5u4WgnNxa9dkAb+9JFOVdsOhnYMflgf2jDvoR3
+lp/xHq/K585GfBWxJ/bQ6oqsSktLRX2mz5OnaxwKbkvPvF3dXNeVfz7eezW2vzQ4
+XXOTvNR6qmguRjvwzdhz2RP7dG+3dXpnZmJWf/zhwrHGjwKHs5uOUxvq37PtvxXf
+k+EeyKPA+sF7ulndEX/dzrnTgbQVMfP9q4wwsYuP+u6unxy6QWr0XcAW0vrug0ev
+HeS29pU/UxEyxKy5XJvy/J87pywnOnbl31t72Fxekx/xRV9v9i/ugpiXv/yrVjE3
+3fiePt0XVXlWGBm+M/p346bSkcjPhl9MhCfDew76U/viWxMWynWfd6fOzB4Zrz72
+0/stafMVF9YlEdFh/wCE7rmk
+=mmSK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mystal
+
+==================================================================
+
