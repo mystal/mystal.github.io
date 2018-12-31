@@ -282,8 +282,7 @@ if (!doNotTrack) {
     <header>
     <div class="title">
         
-            <h1><a href="http://gabem.me/blog/xdg-user-dirs/">Keeping a Clean Home with XDG User Dirs</a></h1>
-            
+            <h2><a href="http://gabem.me/blog/xdg-user-dirs/">Keeping a Clean Home with XDG User Dirs</a></h2>
         
         
     </div>
@@ -379,7 +378,7 @@ build/  dev/  documents/  Dropbox/  music/  pictures/  public/  tmp/  videos/
 
 <p>I specifically wanted no <code>Desktop</code> directory, to rename the <code>Downloads</code>
 directory to <code>tmp</code>, and to use lower-case folders in my home directory to
-ease my life when typing them on the command line&ndash;where I live. Following the
+ease my life when typing them on the command line&mdash;where I live. Following the
 wiki, I filled my <code>~/.config/user-dirs.dirs</code> with:</p>
 
 <pre><code class="language-bash">XDG_DESKTOP_DIR=&quot;$HOME/tmp/desktop&quot;
@@ -392,8 +391,8 @@ XDG_PICTURES_DIR=&quot;$HOME/pictures&quot;
 XDG_VIDEOS_DIR=&quot;$HOME/videos&quot;
 </code></pre>
 
-<p>And voila! All applications that follow the XDG User Directories spec&ndash;all the
-well-behaved ones at least&ndash;will now use the configured directories instead of
+<p>And voila! All applications that follow the XDG User Directories spec&mdash;all the
+well-behaved ones at least&mdash;will now use the configured directories instead of
 the defaults.</p>
 
 <p>Hmm, now if only I could get Dropbox to fall in line with the whole lower-case
