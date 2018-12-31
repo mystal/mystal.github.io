@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Refracted Pixels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jul 2016 17:13:47 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 16:39:37 -0800</lastBuildDate>
     
 	<atom:link href="http://gabem.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keeping a Clean Home with XDG User Dirs</title>
+      <link>http://gabem.me/blog/xdg-user-dirs/</link>
+      <pubDate>Sun, 30 Dec 2018 16:39:37 -0800</pubDate>
+      
+      <guid>http://gabem.me/blog/xdg-user-dirs/</guid>
+      <description>For my birthday last year, I decided that the time had come. Time for me to finally purchase a new laptop to replace my aging 2013 MacBook Air (RIP). Apple had slowly pushed me back to Linux, so I went with the excellent Lenovo X1 Carbon, whose 5th generation had come out earlier in 2017. It arrived nearly a month later. When the weekend came around, I flashed a USB drive with the latest Arch Linux Live image, rolled up my sleeves, and got to work.</description>
+    </item>
     
     <item>
       <title>Mechanical Fail, Episode 2: Procedural Generation</title>
