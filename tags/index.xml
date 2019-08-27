@@ -6,31 +6,13 @@
     <description>Recent content in Tags on Refracted Pixels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jul 2016 17:13:47 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 16:39:37 -0800</lastBuildDate>
     
 	<atom:link href="http://gabem.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Games</title>
-      <link>http://gabem.me/tags/games/</link>
-      <pubDate>Sat, 30 Jul 2016 17:13:47 -0700</pubDate>
-      
-      <guid>http://gabem.me/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://gabem.me/tags/hugo/</link>
-      <pubDate>Mon, 30 May 2016 12:04:02 -0700</pubDate>
-      
-      <guid>http://gabem.me/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
+      <title>linux</title>
       <link>http://gabem.me/tags/linux/</link>
       <pubDate>Sun, 30 Dec 2018 16:39:37 -0800</pubDate>
       
@@ -39,7 +21,16 @@
     </item>
     
     <item>
-      <title>Mechanical Fail</title>
+      <title>games</title>
+      <link>http://gabem.me/tags/games/</link>
+      <pubDate>Sat, 30 Jul 2016 17:13:47 -0700</pubDate>
+      
+      <guid>http://gabem.me/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mechanical fail</title>
       <link>http://gabem.me/tags/mechanical-fail/</link>
       <pubDate>Sat, 30 Jul 2016 17:13:47 -0700</pubDate>
       
@@ -48,7 +39,16 @@
     </item>
     
     <item>
-      <title>Web</title>
+      <title>hugo</title>
+      <link>http://gabem.me/tags/hugo/</link>
+      <pubDate>Mon, 30 May 2016 12:04:02 -0700</pubDate>
+      
+      <guid>http://gabem.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
       <link>http://gabem.me/tags/web/</link>
       <pubDate>Mon, 30 May 2016 12:04:02 -0700</pubDate>
       
